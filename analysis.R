@@ -16,3 +16,5 @@ summary(data)
 sink()
 
 tab_sex_race <- CrossTable(data$sex.factor, data$race.factor)
+
+# hey now
